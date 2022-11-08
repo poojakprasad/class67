@@ -1,3 +1,7 @@
 harry
 ron 
 hermoine
+
+ginny
+fred 
+george
